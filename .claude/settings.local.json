@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.automationexercise.com)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npx playwright:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm test)"
+    ],
+    "deny": []
+  }
+}
